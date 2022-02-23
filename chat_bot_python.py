@@ -1,4 +1,11 @@
-# Chat Bot
+# Project: Chat Bot in Python
+
+# Chat Bot stages:
+# Stage 1: Chatty Bot welcomes you
+# Stage 2: Print your name
+# Stage 3: Guess the age
+# Stage 4: Learning numbers
+# Stage 5: Multiple choice
 
 print('Ciao! Il mio nome è AndreaBot.')
 print('Sono stato creato nel 2021.')
